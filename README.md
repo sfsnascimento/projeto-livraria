@@ -3,7 +3,7 @@ Aplicação desenvolvida em `Node.js` usando o pacote `mongoose` para fazer um `
 ### Instruções para rodar o projeto:
 
 1. Clone o repositório
-  * `git@github.com:sfsnascimento/projeto-escola-de-ingles.git`.
+  * `git@github.com:sfsnascimento/projeto-livraria.git`.
   * Entre na pasta do repositório que você acabou de clonar:
     * `cd node-mongo`
 
